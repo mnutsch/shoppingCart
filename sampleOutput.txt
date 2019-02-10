@@ -1,0 +1,5 @@
+Apple: $1.00
+Orange: $0.90
+Banana: $0.45
+Papaya: $1.00
+Total: $3.35
