@@ -3,6 +3,9 @@
 ## Description:
 This is a simple shopping cart calculator. It reads a text file with a series of product names. The application then outputs a text file with subtotals for each product, as well as a total for all products.
 
+## Author:
+This application was written by [Matt Nutsch](https://www.mattnutsch.com) on 2-10-2019. 
+
 ## Java Version:
 This application was built and test with Java version 9.0.4.
 
