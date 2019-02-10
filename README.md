@@ -7,7 +7,7 @@ This is a simple shopping cart calculator. It reads a text file with a series of
 This application was written by [Matt Nutsch](https://www.mattnutsch.com) on 2-10-2019. 
 
 ## Java Version:
-This application was built and test with Java version 9.0.4.
+This application was built and tested with Java version 9.0.4.
 
 ## Usage:
 Run "java -jar Shopping.jar (input file name) (output file name)". For example "java -jar Shopping.jar sampleInput.txt output.txt". The subtotals and total will be written to the output file.
