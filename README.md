@@ -22,8 +22,8 @@ The output file name is optional. If an output file name is not provided, then t
 - Product.java = This file contains code for the "Product" class, which stores information about prices and quantities.
 - ReadFile.java = This file contains a helper function for reading input files.
 - sampleInput.txt = This is a sample input file to use with the application.
-- sampleInput.txt = This is an alternate sample input file to use with the application.
-- sampleInput.txt = This is yet another alternate sample input file to use with the application.
+- sampleInput2.txt = This is an alternate sample input file to use with the application.
+- sampleInput3.txt = This is yet another alternate sample input file to use with the application.
 - sampleOutput.txt = This is a sample output file produced by the application.
 - Shopping.jar = This is a compiled jar file.
 - /META-INF/MANIFEST.MF = This is a manifest file for compiling a jar file.
