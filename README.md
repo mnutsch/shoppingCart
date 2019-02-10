@@ -1,18 +1,18 @@
 # ShoppingCart
 
-Description:
+## Description:
 This is a simple shopping cart calculator. It reads a text file with a series of product names. The application then outputs a text file with subtotals for each product, as well as a total for all products.
 
-Java Version:
+## Java Version:
 This application was built and test with Java version 9.0.4.
 
-Usage:
+## Usage:
 Run "java -jar Shopping.jar (input file name) (output file name)". For example "java -jar Shopping.jar sampleInput.txt output.txt". The subtotals and total will be written to the output file.
 
-Note: 
+## Note: 
 The output file name is optional. If an output file name is not provided, then the output file name will be "output_(timestamp).txt"
 
-File descriptions:
+## File Descriptions:
 - README.md = This file.
 - Requirements.md = A document containing the project requirements.
 - ShoppingCart.java = This file contains the core code for the ShoppingCart calculation.
@@ -25,7 +25,7 @@ File descriptions:
 - Shopping.jar = This is a compiled jar file.
 - /META-INF/MANIFEST.MF = This is a manifest file for compiling a jar file.
 
-To compile:
+## To Compile:
 1. Navigate to the main project directory.
 2. Run "javac *.java". This compiles the .java files into .class files.
 3. Run "jar cmvf META-INF/MANIFEST.MF Shopping.jar *.class *.java" to create the .jar file.
